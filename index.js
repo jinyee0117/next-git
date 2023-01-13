@@ -1,1 +1,3 @@
-console.log("Hello MiuMiu")
+function add (a,b) {
+    return a + b
+}
